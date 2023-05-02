@@ -10,12 +10,15 @@
   },
   "dependencies": {
     "@react-native-picker/picker": "^2.4.10",
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/native": "^6.1.6",
     "expo": "~48.0.11",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
     "react-native": "0.71.6",
     "react-native-camera": "^4.2.1",
-    "react-native-picker": "^4.3.7"
+    "react-native-picker": "^4.3.7",
+    "react-navigation": "^4.4.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
